@@ -1,0 +1,516 @@
+body{
+    background-color: black;
+}
+#mainmain{
+    display: flex;
+    flex-wrap: wrap;
+}
+#divmain{
+
+    display: flex ;
+    justify-content: space-evenly;
+    height: 40px;
+    width: 1250px;
+    background-color:rgb(26, 26, 26);
+}
+
+#divs{
+    color: white;
+    margin-top: 8px;
+}
+#divv>span{
+    margin-top: 8px;
+    color: grey;
+
+}
+#divv>span:hover{
+    color: white;
+}
+#div1{
+    width: 200px;
+    height: 35px;
+    background-color:rgb(98, 94, 94) ;
+    display: flex;
+    justify-content: space-evenly;
+
+}
+#div1>img{
+    width: 45px;
+    height: 35px;
+}
+#div3>span{
+    color: grey;
+    margin-top: 5px;
+}
+#div2>span{
+    color: white;
+    margin-top: 9%;
+}
+#div2>h5{
+    color: white;
+    margin-top: 10px;
+
+}
+#div2{
+    background-color: red;
+    width: 70px;
+    height: 30px;
+    border-radius: 7px;
+    display: flex;
+    margin-top: 5px;
+}
+#div2:hover{
+    background-color:grey ;
+    
+}
+#div4{
+    width:180px;
+    height: 2560px;
+    background-color:rgb(32, 32, 32);
+}
+#div4>input{
+    margin-top: 30px;
+    background-color: black;
+    color: white;
+
+}
+#div4>input:hover{
+    background-color: white;
+}
+#div5{
+    display: flex;
+}
+#div5>img{
+width: 45px;
+height: 35px; 
+margin-bottom: 35px;
+margin-right: 10px;
+margin-left:0 px;
+
+}
+#div5>h1{
+    color: white;
+    margin: 0;
+    margin-right: 80px;
+}
+#sub1>div{
+    display: flex;
+}
+#sub1>div>span{
+    color: red;
+    margin-top: 20px;
+
+}
+#sub1>div>h3{
+    color: white;
+    display: flex;
+}
+
+#div6>h1{
+    color: white;
+}
+#img1{
+ color: white;
+ width: 400px;
+}
+#img2{
+    color: white;
+}
+#main2>h1{
+    color: white;
+}
+#div6{
+    margin-left: 40px;
+}
+#div6>div{
+    display: flex;
+    justify-content: space-between;
+}
+
+#div8{
+    color: white;
+}
+#div8>div>h6{
+    margin: 0%;
+}
+#div8>div>h4{
+ margin: 0%;
+ 
+}
+#div8>div>img{
+    width: 120px;
+    height: 120px;
+    border-radius: 10px;
+}
+#div8{
+    display: flex;
+    justify-content: space-evenly;
+}
+#div8>div>button{
+    color:rgb(70, 67, 67);
+    background-color: transparent;
+    width: 30px;
+    height: 30px;
+    border-radius: 100px;
+    justify-content: center;
+    margin-top: 7px;
+    border: transparent;
+}
+#div8>div>button:hover{
+    color:white;
+}
+#div8>div>span{
+    width: 10px;
+    height: 10px;
+}
+#div9{
+    color: white;
+}
+#div9>div>img{
+    width: 120px;
+    height: 120px;
+    border-radius: 10px;
+}
+#div9{
+    display: flex;
+    justify-content: space-evenly;
+}#div9>div>h6{
+    margin: 0%;
+}
+#div9>div>h4{
+ margin: 0%;
+}
+#div9>div>button{
+    color:rgb(70, 67, 67);
+    background-color: transparent;
+    width: 30px;
+    height: 30px;
+    border-radius: 100px;
+    justify-content: center;
+    margin-top: 7px;
+    border: transparent;
+}
+#div9>div>button:hover{
+    color: white;
+}
+#div10{
+    color: white;
+}
+#div10>div>img{
+    width: 120px;
+    height: 120px;
+    border-radius: 10px;
+}
+#div10{
+    display: flex;
+    justify-content: space-evenly;
+}
+#div10>div>h6{
+    margin: 0%;
+}
+#div10>div>h4{
+ margin: 0%;
+}
+#div10>div>button{
+    color:rgb(70, 67, 67);
+    background-color: transparent;
+    width: 30px;
+    height: 30px;
+    border-radius: 100px;
+    justify-content: center;
+    margin-top: 7px;
+    border: transparent;
+}
+#div10>div>button:hover{
+    color: white;
+}
+#div11{
+    color: white;
+}
+#div11>div>img{
+    width: 120px;
+    height: 120px;
+    border-radius: 10px;
+}
+#div11{
+    display: flex;
+    justify-content: space-evenly;
+}
+#div11>div>h6{
+    margin: 0%;
+}
+#div11>div>h4{
+ margin: 0%;
+}
+#div11>div>button{
+    color:rgb(70, 67, 67);
+    background-color: transparent;
+    width: 30px;
+    height: 30px;
+    border-radius: 100px;
+    justify-content: center;
+    margin-top: 7px;
+    border: transparent;
+}
+#div11>div>button:hover{
+    color: white;
+}
+#div12{
+    color: white;
+}
+#div12>div>h6{
+    margin: 0%;
+}
+#div12>div>h4{
+ margin: 0%;
+ 
+}
+#div12>div>img{
+    width: 120px;
+    height: 120px;
+    border-radius: 10px;
+}
+#div12{
+    display: flex;
+    justify-content: space-evenly;
+}
+#div12>div>button{
+    color:rgb(70, 67, 67);
+    background-color: transparent;
+    width: 30px;
+    height: 30px;
+    border-radius: 100px;
+    justify-content: center;
+    margin-top: 7px;
+    border: transparent;
+}
+#div12>div>button:hover{
+    color: white;
+}
+#div13{
+    color: white;
+}
+#div13>div>h6{
+    margin: 0%;
+}
+#div13>div>h4{
+ margin: 0%;
+ 
+}
+#div13>div>img{
+    width: 120px;
+    height: 120px;
+    border-radius: 10px;
+}
+#div13{
+    display: flex;
+    justify-content: space-evenly;
+}
+#div13>div>button{
+    color:rgb(70, 67, 67);
+    background-color: transparent;
+    width: 30px;
+    height: 30px;
+    border-radius: 100px;
+    justify-content: center;
+    margin-top: 7px;
+    border: transparent;
+}
+#div13>div>button:hover{
+    color: white;
+}
+#div14{
+    color: white;
+}
+#div14>div>h6{
+    margin: 0%;
+}
+#div14>div>h4{
+ margin: 0%;
+ 
+}
+#div14>div>img{
+    width: 120px;
+    height: 120px;
+    border-radius: 10px;
+}
+#div14{
+    display: flex;
+    justify-content: space-evenly;
+}
+#div14>div>button{
+    color:rgb(70, 67, 67);
+    background-color: transparent;
+    width: 30px;
+    height: 30px;
+    border-radius: 100px;
+    justify-content: center;
+    margin-top: 7px;
+    border: transparent;
+}
+#div14>div>button:hover{
+    color: white;
+}
+#main3>h1{
+    color: white;
+    margin-left: 45px;
+}#div15{
+    color: white;
+}
+#div15>div>h6{
+    margin: 0%;
+}
+#div15>div>h4{
+ margin: 0%;
+ 
+}
+#div15>div>img{
+    width: 120px;
+    height: 120px;
+    border-radius: 10px;
+}
+#div15{
+    display: flex;
+    justify-content: space-evenly;
+}
+#div15>div>button{
+    color:rgb(70, 67, 67);
+    background-color: transparent;
+    width: 30px;
+    height: 30px;
+    border-radius: 100px;
+    justify-content: center;
+    margin-top: 7px;
+    border: transparent;
+}
+#div15>div>button:hover{
+    color: white;
+}
+#div16{
+    color: white;
+}
+#div16>div>h6{
+    margin: 0%;
+}
+#div16>div>h4{
+ margin: 0%;
+ 
+}
+#div16>div>img{
+    width: 120px;
+    height: 120px;
+    border-radius: 10px;
+}
+#div16{
+    display: flex;
+    justify-content: space-evenly;
+}
+#div16>div>button{
+    color:rgb(70, 67, 67);
+    background-color: transparent;
+    width: 30px;
+    height: 30px;
+    border-radius: 100px;
+    justify-content: center;
+    margin-top: 7px;
+    border: transparent;
+}
+#div16>div>button:hover{
+    color: white;
+}
+#main5>h1{
+    color: white;
+    margin-left:30px;
+}
+#div22>h1{
+    color: white;
+    margin-left: 35px;
+}
+#div19>div{
+    border-radius: 10px;
+    width: 250px;
+    height: 40px;
+    background-color: rgb(65, 63, 63);
+    color: red;
+    margin: 20px;
+    margin-left: 50px;
+}
+#div19>div>p{
+     margin-left: 10px;
+}
+#div19{
+    display: flex;
+
+}
+#div20>div{
+    border-radius: 10px;
+    width: 250px;
+    height: 40px;
+    background-color: rgb(65, 63, 63);
+    color: red;
+    margin: 20px;
+    margin-left: 50px;
+}
+#div20>div>p{
+     margin-left: 10px;
+}
+#div20{
+    display: flex;
+
+}
+#div21>div{
+    border-radius: 10px;
+    width:  250px;
+    height: 40px;
+    background-color: rgb(65, 63, 63);
+    color: red;
+    margin: 20px;
+    margin-left: 50px;
+}
+#div21>div>p{
+     margin-left: 10px;
+}
+#div21{
+    display: flex;
+
+}
+#div23{
+    width: 1255px;
+    height: 150px;
+    background-color:rgb(65, 63, 63) ;
+}
+#div23>p{
+    color: white;
+    margin-left: 30px;
+    
+}
+#div23>div{
+    height: 70px;
+    background-color: red;
+    color: white;
+}
+#div23>div>button{
+    width: 100px;
+    height: 20px;
+    background-color: white;
+    color: black;
+    margin-left: 850px;
+
+}
+#div23>div>button:hover{
+    background-color:grey;
+    
+}
+#div23>div>h3{
+    margin: 0px;
+}
+#div23>div>p{
+    margin: 0px;
+}
+#div23>div>button:hover{
+    color: black;
+}
+#mainFlex{
+    display: flex;
+    
+}
